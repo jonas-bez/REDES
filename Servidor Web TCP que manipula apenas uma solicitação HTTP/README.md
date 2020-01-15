@@ -1,0 +1,2 @@
+servidor Web que manipula apenas uma solicitação HTTP. Servidor Web aceita
+solicitações HTTP, obter páginas solicitadas pelo cliente, e também cria mensagens de resposta HTTP, constituída do arquivo solicitado precedido pelas linhas de cabeçalho e, então, enviar a resposta ao cliente. Se o arquivo solicitado não estiver presente no servidor, o servidor deverá envuma mensagem HTTP “404 Not Found” de volta ao cliente.
